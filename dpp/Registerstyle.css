@@ -1,0 +1,12 @@
+﻿body {
+}
+.h2 {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    color: rgb(0 255 144);
+}
+.lblUsername, .lblPassword,.lblConfpassword,.lblEmpid,.lblId,.lblmail,.lblNumber,.lblDesignation,.lblDOB,.lblAge {
+    font-weight: bold;
+    color:azure;
+}
