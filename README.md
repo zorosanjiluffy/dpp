@@ -1,0 +1,1 @@
+This project is an Employee Management System built using ASP.NET, C#, HTML, CSS, and SQL Server for database management. The system provides both a user and admin interface. Users can register, log in, and view their profiles, while administrators have access to manage employee records through CRUD operations (Create, Read, Update, Delete).
